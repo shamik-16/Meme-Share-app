@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyMemes" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#530CCF</item>
+        <item name="colorPrimaryDark">#33146A</item>
+
+    </style>
+
+    <style name="Theme.MyMemes" parent="Base.Theme.MyMemes" />
+</resources>
